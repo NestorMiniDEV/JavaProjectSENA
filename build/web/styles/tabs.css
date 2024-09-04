@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.signUp{
+	transition: all 1s;
+	display: none;
+}
+
+.signIn{
+	transition: all 1s;
+	display: none;
+}
+
+.show{
+	display: block;
+	transition: all 1s;
+}

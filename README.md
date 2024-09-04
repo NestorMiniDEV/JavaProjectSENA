@@ -1,0 +1,1 @@
+Versión del software utilizando JAVA y MySql, junto a apache tomcat, en el IDE netbeans.
